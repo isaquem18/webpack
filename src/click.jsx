@@ -1,0 +1,3 @@
+handleClick = function() {
+    alert('clicouuuuuuu!!!')
+}
